@@ -1,5 +1,7 @@
 # Fuel-Efficiency-Prediction-Model-and-Web-Service-with-Python
 
+vehicle fuel consumption.ipynb contains the whole pyhton code, and rest are dependencies. Below is the complete breakdown of the code. 
+
 Here's a step-by-step breakdown of the code:
 
 Importing Libraries: The code starts by importing necessary libraries for data processing, visualization, and machine learning model selection. These include NumPy, Pandas, Matplotlib, Seaborn, and scikit-learn's various modules.
